@@ -13,3 +13,9 @@
 | Доступ к роутеру по SSH |  |
 | Доступ к роутеру по Telnet |  |
 | Журнал событий прибора (Tsmjournal) |  |
+| GPIO (управляемый через веб-интерфейс) | kmod-usb-hid-cp2112 | Kmod-usb-serial-xxx |
+| RS-232 (управляемый через веб-интерфейс) | kmod-usb-serial-ftdi |
+| RS-485 (управляемый через веб-интерфейс) | kmod-usb-serial-pl2303 |
+| GNSS | Kmod-usb-serial-cp210x |
+|  | kmod-usb-serial-ch341 |
+|  | kmod-usb-acm |
