@@ -2,7 +2,7 @@ local debug_mode = require "applogic.debug_mode"
 local rule_init = require "applogic.operator.rule_init"
 
 
-local rule = {}
+local rulesssssssssssssssssssssssssssssssssss = {}
 local rule_setting = {
 	title = {
 		input = "Правило переключения Сим-карты при отсутствии PING сети",
